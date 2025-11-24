@@ -17,4 +17,3 @@
   />
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anujghimire08&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
