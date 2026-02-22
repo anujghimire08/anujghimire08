@@ -3,9 +3,7 @@
   <img src="images/LinkedInProfileBanner.png" alt="Profile Banner" width="100%" style="border-radius:12px"/>
 </div>
 
----
-
-## 👨‍💻 About Me
+<!-- ## 👨‍💻 About Me
 
 <p align="center">
 I’m a <strong>Web & Coding Enthusiast</strong> passionate about building responsive, user-focused web applications with clean and maintainable code.
@@ -19,12 +17,12 @@ I’m a <strong>Web & Coding Enthusiast</strong> passionate about building respo
 <li>💡 Driven by <strong>consistency, creativity, and continuous learning</strong></li>
 </ul>
 
----
+--- -->
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,tailwind,git,figma,react" alt="Tech Icons" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,java,c,git,figma" alt="Tech Icons" width="100%"/>
 </p>
 
 ---
