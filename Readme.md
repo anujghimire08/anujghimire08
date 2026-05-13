@@ -35,13 +35,12 @@ I’m a <strong>Web & Coding Enthusiast</strong> passionate about building respo
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujghimire08&theme=react-dark&hide_border=true" style="width:100%; height:auto;" alt="GitHub Streak Stats"/>
+  
 </div>
 
----
+<!--## 🔗 Connect With Me
 
-## 🔗 Connect With Me
-
-<p align="center">
+ <p align="center">
   <a href="https://github.com/anujghimire08" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>&nbsp;&nbsp;
@@ -55,4 +54,4 @@ I’m a <strong>Web & Coding Enthusiast</strong> passionate about building respo
     <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=globe&logoColor=white"/>
   </a>
 
-</p>
+</p>-->
