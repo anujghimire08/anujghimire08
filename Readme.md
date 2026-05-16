@@ -33,10 +33,10 @@ I’m a <strong>Web & Coding Enthusiast</strong> passionate about building respo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujghimire08&theme=react-dark&hide_border=true&color=000000&line=000000&point=000000&area_color=ffffff&bg_color=ffffff" width="100%" alt="GitHub Activity Graph"/>
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujghimire08&theme=react-dark&hide_border=true" style="width:100%; height:auto;" alt="GitHub Streak Stats"/>
   
-</div> -->
+</div>
 
 <!--## 🔗 Connect With Me
 
