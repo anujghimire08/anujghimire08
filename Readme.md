@@ -22,7 +22,7 @@ I’m a <strong>Web & Coding Enthusiast</strong> passionate about building respo
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,java,c,git,figma" alt="Tech Icons" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,java,git,figma" alt="Tech Icons" width="100%"/>
 </p>
 
 ---
@@ -38,20 +38,16 @@ I’m a <strong>Web & Coding Enthusiast</strong> passionate about building respo
   
 </div>
 
-<!--## 🔗 Connect With Me
+## 🔗 Connect With Me
 
- <p align="center">
-  <a href="https://github.com/anujghimire08" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/AnujGhimire" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/anujghimire08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href="http://anujghimire.com.np/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=globe&logoColor=white"/>
-  </a>
+<p align="center">
+<a href="https://github.com/anujghimire08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anujghimire08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/AnujGhimire"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
 
-</p>-->
+<p align="center">
+📧 <strong>Email:</strong> contact.anujghimire@gmail.com <br>
+🌐 <strong>Portfolio:</strong> <a href="https://anujghimire.com.np/">anujghimire.com.np</a> <br>
+💬 Feel free to reach out for collaborations, freelance opportunities, or just to say hello!
+</p>
