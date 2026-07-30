@@ -1,0 +1,32 @@
+{
+  "name": "Anuj Ghimire",
+  "username": "anujghimire08",
+  "role": "Full Stack Developer",
+  "location": "Kathmandu, Nepal",
+
+  "focus": ["React", "TypeScript", "Java", "PHP"],
+
+  "status": "Building • Learning • Shipping",
+
+  "theme": {
+    "dark": {
+      "background": "#0A101F",
+      "primary": "#22D3EE",
+      "secondary": "#3B82F6",
+      "text": "#F8FAFC",
+      "muted": "#94A3B8",
+      "success": "#10B981",
+      "border": "#243447"
+    },
+
+    "light": {
+      "background": "#FFFFFF",
+      "primary": "#0284C7",
+      "secondary": "#2563EB",
+      "text": "#111827",
+      "muted": "#6B7280",
+      "success": "#059669",
+      "border": "#D1D5DB"
+    }
+  }
+}
