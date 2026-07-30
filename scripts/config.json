@@ -8,6 +8,29 @@
 
   "status": "Building • Learning • Shipping",
 
+  "layout": {
+    "width": 1200,
+    "height": 400,
+    "padding": 40,
+    "header_height": 50,
+    "portrait_size": 220,
+
+    "portrait": {
+      "x": 60,
+      "y": 90
+    },
+
+    "content": {
+      "x": 340,
+      "y": 110
+    }
+  },
+
+  "terminal": {
+    "title": "anuj@github:~$ ./profile.sh",
+    "live_text": "● LIVE"
+  },
+
   "theme": {
     "dark": {
       "background": "#0A101F",
