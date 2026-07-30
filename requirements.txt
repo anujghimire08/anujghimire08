@@ -1,0 +1,6 @@
+Pillow
+numpy
+svgwrite
+scipy
+opencv-python
+imageio

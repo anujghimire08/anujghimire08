@@ -34,8 +34,13 @@ I’m a <strong>Web & Coding Enthusiast</strong> passionate about building respo
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujghimire08&theme=react-dark&hide_border=true" style="width:100%; height:auto;" alt="GitHub Streak Stats"/>
-  
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=anujghimire08&theme=react-dark&hide_border=true" 
+  width="100%" 
+  alt="GitHub Streak"
+/>
+
 </div>
 
 ## 🔗 Connect With Me
@@ -51,3 +56,4 @@ I’m a <strong>Web & Coding Enthusiast</strong> passionate about building respo
 🌐 <strong>Portfolio:</strong> <a href="https://anujghimire.com.np/">anujghimire.com.np</a> <br>
 💬 Feel free to reach out for collaborations, freelance opportunities, or just to say hello!
 </p>
+
