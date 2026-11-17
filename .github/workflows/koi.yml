@@ -1,0 +1,44 @@
+name: Git Profile Koi
+
+on:
+  schedule:
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/koi.yml"
+
+permissions:
+  contents: write
+
+concurrency: koi
+
+jobs:
+  koi:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Koi
+        uses: yalongwastaken/git-koi@v1
+        with:
+          body: asagi
+          output-dir: koi
+
+      - name: Commit generated Koi
+        shell: bash
+        run: |
+          git add koi/koi.gif
+
+          if git diff --cached --quiet; then
+            echo "Koi is unchanged."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git commit --quiet -m "chore: update GitHub koi"
+          git push --quiet
